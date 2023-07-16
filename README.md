@@ -1,3 +1,5 @@
+# Welcome to My GitHub Profile!
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/piumi-rathnayaka/" target="_blank">
@@ -44,3 +46,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
   </a>
 </p>
+
+## GitHub Stats:
+[![Piumir3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
