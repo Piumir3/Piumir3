@@ -1,4 +1,5 @@
-# Welcome to My GitHub Profile!
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
 
 ## Connect with me:
 <p align="left">
