@@ -40,9 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p>
- 
-
-  GitHub Stats:
+GitHub Stats:
 [![Piumir3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  
