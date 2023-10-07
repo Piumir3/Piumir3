@@ -40,9 +40,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p>
+[![An image of @piumir34's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@piumir34)](https://holopin.io/@piumir34)
 
 ## GitHub Stats:
 [![Piumir3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- [Link Text](https://holopin.io/@piumir34)
-
+ 
