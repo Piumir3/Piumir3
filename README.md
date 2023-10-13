@@ -1,13 +1,7 @@
- 
+# 👋 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/piumi-rathnayaka/)
 
-## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/piumi-rathnayaka/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-## Languages and Tools:
+# 💼 Languages and Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -41,7 +35,5 @@
   </a>
 </p>
 
-## GitHub Stats:
-[![Piumir3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
- 
+# 📊 GitHub Stats
+![Piumir3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=radical)
