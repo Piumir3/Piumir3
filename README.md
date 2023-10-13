@@ -36,4 +36,4 @@
 </p>
 
 # 📊 GitHub Stats
-![Piumir3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=radical)
+![Piumir3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=merko&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=98fb98)
