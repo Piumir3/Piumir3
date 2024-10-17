@@ -13,7 +13,7 @@
 
 <!-- subtitle --> 
 <div id="user-content-toc" align="center"> 
-  <summary><h2 style="display: inline-block">Learning to code is a journey of discovery.</h2></summary>
+   <h2 style="display: inline-block">Learning to code is a journey of discovery.</h2> 
 </div>
 
 <!-- introduction --> 
@@ -26,7 +26,7 @@
 
 <!-- Reach Me --> 
 <div id="user-content-toc" align="center"> 
-  <summary><h2 style="display: inline-block">📬 Reach Me</h2></summary>
+  <h2 style="display: inline-block">📬 Reach Me</h2> 
 </div>
 
 <p align="center">
@@ -39,10 +39,10 @@
 
  
 <div id="user-content-toc" align="center"> 
-  <summary><h2 style="display: inline-block">💻 Tech Stack</h2></summary>
+   <h2 style="display: inline-block">💻 Tech Stack</h2> 
 </div>
 
-<div align="center">
+<div  >
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
@@ -71,7 +71,7 @@
 
 <!-- GitHub Stats --> 
 <div id="user-content-toc" align="center"> 
-  <summary><h2 style="display: inline-block">📊 GitHub Stats</h2></summary>
+ <h2 style="display: inline-block">📊 GitHub Stats</h2> 
 </div>
 
 <table align="center">
