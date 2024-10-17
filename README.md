@@ -13,7 +13,7 @@
 
 <!-- Subtitle -->
 <div id="user-content-toc" align="center">
-  <summary><h2 style="display: inline-block; color: #4682b4;">Learning to code is a journey of discovery.</h2></summary>
+  <h2 style="display: inline-block; color: #4682b4;">Learning to code is a journey of discovery.</h2> 
 </div>
 
 <!-- Introduction with Blue Highlights -->
