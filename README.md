@@ -2,7 +2,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- title --> 
-<h2 align="center">Hi 👋! I'm Piumi Rathnayaka</h2> 
+<h2 align="center">🌟 Hi there! 👋 I'm <span style="color: #1e90ff;">Piumi Rathnayaka</span> 🌟</h2>
+
+<div align="center">
+  <p style="font-size: 1.2em;">🎨 Passionate Web Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</p>
+  <p style="font-size: 1.2em;">✨ Transforming Ideas Into Reality Through Code ✨</p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="400"/>
+</div>
+
 
 <!-- snake animation --> 
 <div align="center">
