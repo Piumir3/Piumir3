@@ -13,15 +13,15 @@
 
 <!-- subtitle --> 
 <div id="user-content-toc" align="center"> 
-  <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  <summary><h2 style="display: inline-block">Learning to code is a journey of discovery.</h2></summary>
 </div>
 
 <!-- introduction --> 
 <p align="left"> 
-  🔭 Currently working on enhancing web applications using React, Tailwind CSS, and Laravel <br> 
+  🔭 Currently working on enhancing web applications using React, Tailwind CSS <br> 
   🤝 Actively seeking collaborations in software development <br> 
-  💬 Feel free to ask me about anything related to JavaScript, React, or Laravel <br> 
-  📫 Reach me at <a href="mailto:piumi.rathnayaka@example.com">piumi.rathnayaka@example.com</a> 
+  💬 Feel free to ask me about anything related to JavaScript, React <br> 
+   
 </p>
 
 <!-- Reach Me --> 
