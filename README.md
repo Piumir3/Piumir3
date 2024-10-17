@@ -75,16 +75,7 @@
   </tr>
 </table>
 
-<!-- GitHub Trophies --> 
-<div id="user-content-toc" align="center"> 
-  <summary><h2 style="display: inline-block">🏆 GitHub Trophies</h2></summary>
-</div>
-
-<div align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies"> 
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Piumir3&theme=radical&row=1&column=7" alt="GitHub Trophies" /> 
-  </a>
-</div>
+ 
 
 <!-- horizontal divider (gradient) --> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
