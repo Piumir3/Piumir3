@@ -1,3 +1,39 @@
- <!-- Horizontal Divider with Gradient --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Title --> <h2 align="center">Hi 👋! I'm Piumi Rathnayaka</h2> <!-- Snake Animation --> <div align="center"> <a href="https://github.com/Piumir3"> <img src="https://raw.githubusercontent.com/psnwd/psnwd/1ca53178f6deca37158f3b18b2288cb4cb4a82fa/grid-snake.svg" alt="snake animation"/> </a> </div>
-Confusion is part of Programming
-<p align="left"> 🔭 Currently working on expanding my software development skills.<br> 🤝 Actively seeking collaborations in the fields of web development and software engineering.<br> 🌱 Proficient in C, Java, HTML5, CSS3, JavaScript, and MySQL.<br> 💬 Feel free to ask me about JavaScript, React, or any of the listed technologies!<br> 📫 You can reach out to me at <a href="mailto:piumi.rathnayaka@example.com">piumi.rathnayaka@example.com</a> </p> <!-- Tech Stack --> <div id="user-content-toc"> <ul align="center"> <summary><h2>💻 Tech Stack</h2></summary> </ul> </div> <div align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" alt="C logo"/> <img width="12"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" alt="Java logo"/> <img width="12"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" alt="HTML5 logo"/> <img width="12"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" alt="CSS3 logo"/> <img width="12"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo"/> <img width="12"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="50" alt="Bootstrap logo"/> <img width="12"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="50" alt="Laravel logo"/> <img width="12"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="50" alt="Angular logo"/> <img width="12"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL logo"/> </div> <!-- GitHub Stats --> <div id="user-content-toc"> <ul align="center"> <summary><h2>📊 GitHub Stats</h2></summary> </ul> </div> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=merko&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=98fb98"/> <br></br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piumir3&theme=merko&hide_border=false"/> </p> <!-- Trophy Section --> <div id="user-content-toc"> <ul align="center"> <summary><h2>🏆 GitHub Trophies</h2></summary> </ul> </div> <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source"> <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Piumir3&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy"/> </a> </div> <!-- Horizontal Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Connect Section --> <div id="user-content-toc"> <ul align="center"> <summary><h2>👋 Connect with Me</h2></summary> </ul> </div> <p align="center"> <a href="https://www.linkedin.com/in/piumi-rathnayaka/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge"/> </a> </p>
+ # 👋 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/piumi-rathnayaka/)
+
+# 💼 Languages and Tools
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+</p>
+
+# 📊 GitHub Stats
+![Piumir3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piumir3&show_icons=true&theme=merko&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=98fb98)
